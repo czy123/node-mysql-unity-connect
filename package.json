@@ -1,0 +1,31 @@
+{
+  "name": "family_node_server",
+  "version": "1.0.0",
+  "description": "node server for family",
+  "main": "app.ls",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@120.26.201.151:server/family_node_server.git"
+  },
+  "author": "HuangPanpan",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-body": "^4.0.0",
+    "co-mysql": "^1.0.0",
+    "co-redis": "^1.2.2",
+    "co-request": "^1.0.0",
+    "csv-parse": "^1.0.0",
+    "exec": "^0.2.1",
+    "js-yaml": "^3.4.3",
+    "koa": "^1.1.0",
+    "koa-router": "^5.2.3",
+    "later": "^1.2.0",
+    "livescript": "^1.4.0",
+    "mysql": "^2.9.0",
+    "redis": "^2.2.5",
+    "respawn": "^2.0.0"
+  }
+}
